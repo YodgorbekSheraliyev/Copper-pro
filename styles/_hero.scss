@@ -350,6 +350,9 @@ position: absolute;
   }
   .header__bg {
     padding-top: 90px;
+      background-position: -400px -50px;
+
+    background-size: 150%  110%;
   }
   .nav__list-item--first, .nav__list--last {
     position: absolute;
@@ -380,6 +383,10 @@ position: absolute;
   }
   .header__bg {
     height: 65vh;
+    background-position: -400px 0;
+
+    background-size: 300%  110%;
+
   }
   .hero__title {
     font-size: 30px;
